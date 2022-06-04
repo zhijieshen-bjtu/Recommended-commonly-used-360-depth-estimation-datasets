@@ -1,0 +1,6 @@
+Structured3D/scene_02839/2D_rendering/424639/panorama/empty/rgb_rawlight.png Structured3D/scene_02839/2D_rendering/424639/panorama/empty/depth.png
+Structured3D/scene_02973/2D_rendering/4596/panorama/empty/rgb_rawlight.png Structured3D/scene_02973/2D_rendering/4596/panorama/empty/depth.png
+Structured3D/scene_01947/2D_rendering/418/panorama/simple/rgb_rawlight.png Structured3D/scene_02839/2D_rendering/424639/panorama/empty/depth.png
+Structured3D/scene_00623/2D_rendering/81/panorama/empty/rgb_rawlight.png Structured3D/scene_02839/2D_rendering/424639/panorama/empty/depth.png
+Structured3D/scene_02722/2D_rendering/405/panorama/full/rgb_rawlight.png Structured3D/scene_02839/2D_rendering/424639/panorama/empty/depth.png
+Structured3D/scene_02839/2D_rendering/424639/panorama/empty/rgb_rawlight.png Structured3D/scene_02839/2D_rendering/424639/panorama/empty/depth.png
